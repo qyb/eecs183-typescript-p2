@@ -11,7 +11,7 @@ import {
     console.log('-------------------------------');
     console.log('EECS 183 Project 2 Menu Options');
     console.log('-------------------------------');
-    console.log('1) Execute testing functions in test.cpp');
+    console.log('1) Execute testing functions in test.ts');
     console.log('2) Execute rps() function to play game');
 
     const choice = getChoice();
